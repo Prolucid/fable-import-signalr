@@ -1,4 +1,4 @@
-UI components for fable-react
+Fable bindings for (SignalR)[http://www.asp.net/signalr]
 =======
 
 [![npm version](https://badge.fury.io/js/fable-import-signalr.svg)](https://badge.fury.io/js/fable-import-signalr)
