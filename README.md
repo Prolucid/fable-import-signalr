@@ -1,7 +1,7 @@
 UI components for fable-react
 =======
 
-[![npm version](https://badge.fury.io/js/fable-elmish.svg)](https://badge.fury.io/js/fable-elmish)
+[![npm version](https://badge.fury.io/js/fable-import-signalr.svg)](https://badge.fury.io/js/fable-import-signalr)
 
 ## Usage
 
