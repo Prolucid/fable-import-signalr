@@ -9,7 +9,7 @@ UI components for fable-react
 ```ocaml
 
     type [<AllowNullLiteral>] MyHub =
-        abstract myUpdate: Func<float,unit> with get, set
+        abstract myUpdate: (float -> unit) with get, set
 
     type Hubs =
         inherit SignalR
