@@ -91,6 +91,9 @@ module SignalRModule =
         | Jsonp of bool
         | PingInterval of float
 
+    and [<AllowNullLiteral>] HubClient<'T> =
+        abstract client: 'T with get, set
+
     and [<AllowNullLiteral>] SimplifyLocation =
         abstract protocol: string with get, set
         abstract host: string with get, set
