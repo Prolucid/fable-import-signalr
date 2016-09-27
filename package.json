@@ -1,0 +1,23 @@
+{
+  "name": "fable-import-signalr",
+  "version": "0.1.0",
+  "description": "SignalR bindings for Fable",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/2sComplement/fable-import-signalr.git"
+  },
+  "dependencies": {
+    "jQuery": "^1.6.4",
+    "signalr": "^2.2.1"
+  },
+  "keywords": [
+    "F#",
+    "Fable",
+    "SignalR"
+  ],
+  "author": "Justin Sacks",
+  "license": "MIT"
+}
